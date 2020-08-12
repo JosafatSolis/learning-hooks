@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "xbox one",
+      "price": 4000
+    },
+    {
+      "name": "Play Station",
+      "price": 5000,
+      "id": 2
+    }
+  ],
+  "todos": [
+    {
+      "title": "Get todos",
+      "body": "Algo...",
+      "id": 1
+    },
+    {
+      "title": "una todo",
+      "body": "primera una todo",
+      "id": 2
+    },
+    {
+      "title": "otra todo",
+      "body": "segunda otra todo",
+      "id": 3
+    },
+    {
+      "title": "tercera todo",
+      "body": "una más todo tercera",
+      "id": 4
+    },
+    {
+      "title": "cuarto todo",
+      "body": "body del cuarto todo",
+      "id": 5
+    },
+    {
+      "title": "Algo que hacer",
+      "body": "Detalles",
+      "id": 6
+    },
+    {
+      "title": "Otra cosa",
+      "body": "Algo más que hacer",
+      "id": 7
+    }
+  ]
+}
